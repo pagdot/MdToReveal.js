@@ -5,7 +5,7 @@ author: Paul Götzinger
 date: 28.11.2018
 
 theme: solarized
-revealjs-url: ressources/reveal.js
+revealjs-url: https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.7.0/
 slideNumber: true
 ---
 

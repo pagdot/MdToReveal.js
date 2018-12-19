@@ -1,6 +1,0 @@
-[submodule "ressources/reveal.js"]
-	path = ressources/reveal.js
-	url = https://github.com/hakimel/reveal.js.git
-[submodule "ressources/MathJax"]
-	path = ressources/MathJax
-	url = https://github.com/mathjax/MathJax.git
