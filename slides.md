@@ -66,6 +66,8 @@ Part 2
 
 ~Alternative\ as\ subscript.\ Spaces\ need\ to\ be\ escaped\ with\ `\`~
 
+^Alternative\ as\ superscript.\ Spaces\ also\ need\ to\ be\ escaped^
+
 Normal Text
 
 ## Columns
