@@ -30,7 +30,7 @@ pandoc -t revealjs -s --mathjax --slide-level 2 slides.md -o docs/slides.html
 
 I'd like to get ideas and feedback on how to improve the sample presentation and additional content.
 
-Please use the issues or propose changes with merge requests.
+Please use the issues or propose changes in pull requests.
 
 ## License
 
